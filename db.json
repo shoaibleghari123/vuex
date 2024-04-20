@@ -1,0 +1,54 @@
+{
+  "events": [
+    {
+      "id": "123",
+      "category": "animal welfare",
+      "title": "Cat Adoption Day",
+      "description": "Find your new feline friend at this event.",
+      "location": "Meow Town",
+      "date": "January 28, 2022",
+      "time": "12:00",
+      "organizer": "Kat Laydee"
+    },
+    {
+      "id": "456",
+      "category": "food",
+      "title": "Community Gardening",
+      "description": "Join us as we tend to the community edible plants.",
+      "location": "Flora City",
+      "date": "March 14, 2022",
+      "time": "10:00",
+      "organizer": "Fern Pollin"
+    },
+    {
+      "id": "789",
+      "category": "sustainability",
+      "title": "Beach Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "organizer": "Carey Wales"
+    },
+    {
+      "id": "2dfb921a-947b-4858-aae3-ae240e718678",
+      "category": "housing",
+      "title": "feline friend ",
+      "description": "Find your new feline friend at this event",
+      "location": "new jercy",
+      "date": "3/11/2023",
+      "time": "10:00AM",
+      "organizer": "Adam Jahr"
+    },
+    {
+      "id": "646afd6b-979b-43e6-abeb-20d821449b08",
+      "category": "education",
+      "title": "temproary title",
+      "description": "description ",
+      "location": "Where is your event",
+      "date": "3/8/2020",
+      "time": "12:00PM",
+      "organizer": "Adam Jahr"
+    }
+  ]
+}
